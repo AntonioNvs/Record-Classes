@@ -1,0 +1,2 @@
+Pasta a qual os arquivos temporários de reconhecimento de aúdio são guardadas, e, após os aúdios
+serem transformados em texto, são excluídos
